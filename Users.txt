@@ -1,0 +1,4 @@
+Joan Crawford|JC@1|Admin
+Rock Hudson|RH@1|Admin
+Bette Davis|BD@1|User
+Mickey Rooney|MR@1|User
